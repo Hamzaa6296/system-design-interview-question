@@ -12,6 +12,7 @@ A single, self-contained reference of system design interview questions **with a
 - Each section also starts with a small, **hand-verified** list of real YouTube channels/playlists that are the best free resources for that topic, for when you want a full video walkthrough instead of a text answer.
 - **A note on video links:** links are given per-section rather than per-question. Attaching a unique, verified YouTube link to each of the 500+ individual questions isn't reliably possible - most specific interview-style questions have no single matching video, and guessing plausible-looking URLs risks giving you broken or simply made-up links. Every channel linked below is real and active, so searching the question text on YouTube (or within these channels) will almost always surface a directly relevant video.
 - For the 'Design X' case-study questions (Section 20), the answers are intentionally brief - a sketch of the key components and the core design decision - not a full interview-length breakdown. Use them as a mental outline, then practice talking through the full design yourself.
+- For full-length practice, use [PracHub's company-filtered system design prompts and written solutions](https://prachub.com/categories/system-design).
 - ⭐ Star this repo if it helps your prep, and feel free to open a PR to add topics, questions, or expand answers.
 
 ## 🎥 Best Overall YouTube Channels for System Design (verified)
